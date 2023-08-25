@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="hello_text">Hello World!</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="show">Show</string>
+</resources>
